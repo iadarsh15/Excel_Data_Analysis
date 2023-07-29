@@ -1,0 +1,17 @@
+Requirement::
+This is a Road Accident Data Analysis and we have some insights from the data based on the below requirements-
+
+Primary KPI (Key Performance Indicator):
+	
+Total casualties taken place after the accident.
+
+Primary KPI: Total casualties and percentage of total with respect to accident severity and maximum casualties by type of vehicle.
+
+Secondary KPI:     1. Total casualties with respect to vehicle type.
+		   2. Monthly trend showing comparison of casualties for Current Year and Previous Year.
+		   3. Maximum casualties by Road Type.
+		   4. Distribution of total casualties by Road Surface.
+		   5. Relation between casualties by Area/Location and by Day/Night.
+
+		
+
